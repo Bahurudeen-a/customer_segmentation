@@ -23,7 +23,7 @@ In this repository, we provide a comprehensive guide in multiple phases for perf
 
 ### Phase 3 - [Document 3: ADS_Phase3]
 
-### Phase 4 - [Document 4: ADS_Phase4]
+### Phase 4 - [ADS_Phase4](#https://github.com/Bahurudeen-a/customer_segmentation/blob/main/ADS_Phase4.pdf)
 
 ### Phase 5 - [Document 5: ADS_Phase5]
 
